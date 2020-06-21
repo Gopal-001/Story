@@ -1,0 +1,12 @@
+//Git Branch creating
+
+git branch <"name of the branch">
+-> git branch alien-plot
+
+//To check what branches you have 
+git branch
+->the one with * sign is current branch.
+
+//Shifting to other plot
+git checkout <name of the branch>
+->git checkout alien-plot
